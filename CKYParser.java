@@ -18,7 +18,7 @@ import java.lang.Math;
 
 /**
  *
- * @author Isys Johnson, Carlos Salas
+ * @author Isys Johnson
  */
 public class CKYParser {
     public CKYEntry[][] table;
